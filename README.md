@@ -73,13 +73,8 @@ This project uses a combination of **exploratory data analysis (EDA)**, **featur
   
    <img src="https://github.com/user-attachments/assets/4c217e92-f6c2-40ae-8a94-be527759de07" height="250">
 
+   <img src="https://github.com/user-attachments/assets/2e17651f-d6df-46ed-826c-2f8456f18f3b" height="250">
 
-### 3. Feature Engineering
-- Derived metrics like churn risk scores and engagement ratios
-
-### 4. Predictive Modeling
-- Built classification models (Logistic Regression, Decision Tree)
-- Evaluated using accuracy, precision, recall, and ROC-AUC
 
 ### 5. Dashboard in Tableau
 - Created interactive visualizations to explain churn insights
