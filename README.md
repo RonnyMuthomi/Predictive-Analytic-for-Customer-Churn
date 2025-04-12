@@ -69,6 +69,11 @@ This project uses a combination of **exploratory data analysis (EDA)**, **featur
 - Identified patterns in customer engagement and satisfaction
 - Visualized churn by subscription type, account age, content type, etc.
 
+  **Analysis chart**
+  
+   <img src="https://github.com/user-attachments/assets/4c217e92-f6c2-40ae-8a94-be527759de07" height="250">
+
+
 ### 3. Feature Engineering
 - Derived metrics like churn risk scores and engagement ratios
 
@@ -79,6 +84,8 @@ This project uses a combination of **exploratory data analysis (EDA)**, **featur
 ### 5. Dashboard in Tableau
 - Created interactive visualizations to explain churn insights
 - Dashboards include churn trends, user segments, engagement analysis
+  **Dashboard**
+  https://public.tableau.com/app/profile/ronny.muthomi5399/viz/churn1_17444751962460/customer-churndash?publish=yes
 
 ---
 
