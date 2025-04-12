@@ -102,5 +102,3 @@ This project uses a combination of **exploratory data analysis (EDA)**, **featur
 
 ---
 
-## 📌 Folder Structure (Suggested)
-
