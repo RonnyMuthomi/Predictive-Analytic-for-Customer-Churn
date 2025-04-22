@@ -1,8 +1,8 @@
-# 📉 Predicting Customer Churn for Subscription-Based Businesses
+# 📉 Analysing Customer Churn for Subscription-Based Businesses
 
 ## 📌 Project Overview
 
-In today's competitive digital economy, subscription-based businesses face a major challenge: **customer churn**. Companies lose millions in revenue due to churn, often without understanding the root causes. This project aims to tackle that challenge by analyzing customer behavior patterns, engagement rates, and transaction data to **predict churn risk** and provide actionable insights.
+In today's competitive digital economy, subscription-based businesses face a major challenge: **customer churn**. Companies lose millions in revenue due to churn, often without understanding the root causes. This project aims to tackle that challenge by analyzing customer behavior patterns, engagement rates, and transaction data to  and provide actionable insights.
 
 ---
 
@@ -16,8 +16,7 @@ The inability to detect early churn signals limits a company's capacity to respo
 
 ## 💡 Project Solution
 
-This project uses a combination of **exploratory data analysis (EDA)**, **feature engineering**, and **data visualization** to uncover trends that lead to customer churn. We also leverage predictive modeling techniques to identify at-risk customers before they leave.
-
+This project uses a combination of **exploratory data analysis (EDA)**, **feature engineering**, and **data visualization** to uncover trends that lead to customer churn. 
 ---
 
 ## 🎯 Objectives
